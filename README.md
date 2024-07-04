@@ -1,4 +1,4 @@
-# Inventory Management Automation
+# Inventory Management Automation using UiPath
 
 Automate inventory management by monitoring database inventory levels and sending email notifications when levels drop below a specified threshold. This solution enhances efficiency in inventory management by promptly alerting users about items needing attention.
 
